@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `yarn`
 
-To open Download the Node Modules
+To download the Node Modules
 
 ### `yarn start`
 
